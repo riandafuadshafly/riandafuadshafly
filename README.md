@@ -12,6 +12,35 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
