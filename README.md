@@ -30,12 +30,12 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Python** 
 
 ```text
-Shell                    2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Python                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Shell                    2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
