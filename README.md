@@ -1,6 +1,6 @@
 ## Hi there, I'm Rianda Fuad Shafly👋
 
-[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=riandafuadshafly)](https://github.com/riandafuadshafly/riandafuadshafly)
+[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=riandafuadshafly)](https://github.com/rndzx/rndzx)
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
