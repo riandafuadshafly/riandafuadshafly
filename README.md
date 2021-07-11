@@ -1,6 +1,6 @@
 ## Hi there, I'm Rianda Fuad Shafly👋
 
-[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=riandafuadshafly)](https://github.com/rndzx/rndzx)
+[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=rndzx)](https://github.com/rndzx/rndzx)
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
@@ -30,14 +30,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Shell                    2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
+![Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=compact)
 
 
 
