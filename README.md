@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,11 +30,19 @@ No Activity Tracked This Week
 
 ```
 
-![Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=compact)
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
 
 
 
- Last Updated on 24/06/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
