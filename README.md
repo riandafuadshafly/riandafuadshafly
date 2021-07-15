@@ -1,15 +1,11 @@
-## Hi there, I'm Rianda Fuad Shafly👋
-
 [![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=rndzx&show_icons=true&theme=jolly)](https://github.com/rndzx/rndzx)
 
-### I'm a Single Fighter Developer!
-- 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about DevOps specially Docker and K8s
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like editing, and create unfinished side project 
+### Hii, My name is Rianda Fuad Shafly👋
+- I Like Anime and Manga
+- Editing & Programming
+- and You
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=compact)]
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=compact)](https://github.com/rndzx/rndzx)
 
 ### 📊 Weekly development breakdown
 
