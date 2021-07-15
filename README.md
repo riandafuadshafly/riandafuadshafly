@@ -1,44 +1,16 @@
-[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=rndzx&show_icons=true&theme=jolly)](https://github.com/rndzx/rndzx)
+[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=rndzx&show_icons=true&theme=dracula)](https://github.com/rndzx/rndzx)
 
 ### Hii, My name is Rianda Fuad Shafly👋
 - I Like Anime and Manga
 - Editing & Programming
 - and You
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=compact)](https://github.com/rndzx/rndzx)
-
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=dracula)](https://github.com/rndzx)
 
  Last Updated on 15/07/2021
 <!--END_SECTION:waka-->
