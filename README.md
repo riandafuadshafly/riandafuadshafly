@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love cooking, finding bug and create unfinished side project 
+- ⚡ Fun fact: I like editing, and create unfinished side project 
+
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=compact)]
 
 ### 📊 Weekly development breakdown
 
