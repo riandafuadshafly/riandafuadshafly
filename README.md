@@ -8,11 +8,37 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndzx&layout=dracula)](https://github.com/rndzx)
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/07/2021
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+
+ Last Updated on 16/07/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
