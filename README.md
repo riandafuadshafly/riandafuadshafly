@@ -8,6 +8,8 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -38,7 +40,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 00:36:44 UTC
+ Last Updated on 17/06/2024 00:35:14 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
